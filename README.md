@@ -8,6 +8,6 @@ CDZAPP é um projeto avaliativo desenvolvivo durante um periódo de tempo determ
 
 ## 🖼️ | Imagem do aplicativo
 <div align="center">
-<img src="./readmeImage/teste1.jpg">
-<img src="./readmeImage/teste2.jpg">
+<img src="./readmeImage/teste1.jpg" width="350px">
+<img src="./readmeImage/teste2.jpg" width="350px">
   </div>
